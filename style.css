@@ -444,7 +444,7 @@ opacity: 0;
   margin-left: 8rem;
 }
 
-.rooms-card-wrapper{
+.rooms-cards-wrapper{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -511,7 +511,7 @@ opacity: 0;
 }
 
 .room-card {
-  width: 60rem;
+   width: 40rem;
    margin: 5rem;
    background-color: #15141b;
    box-shadow: 0 3rem 6rem rgba(0, 0, 0, 0.3);
@@ -578,30 +578,6 @@ opacity: 0;
   font-style: italic;
   color: #b85d1c;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 /* end of customers */
