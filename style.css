@@ -587,10 +587,14 @@ opacity: 0;
 }
 
 .main-part {
-  display: flex;
-  justify-content: space-between;
   background-color: #1c1c1c;
   padding: 4rem;
+}
+
+.main-part2 {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 5rem;
 }
 
 .footer-heading {
@@ -642,6 +646,7 @@ opacity: 0;
 }
 
 .gallery {
+  background-color: #1c1c1c;
   /* margin-left: 10rem; */
   /* max-width: 45rem; */
 }
@@ -698,9 +703,6 @@ opacity: 0;
 .text-right span {
   color: gold;
 }
-
-
-
 
 
 
